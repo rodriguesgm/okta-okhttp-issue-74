@@ -1,0 +1,6 @@
+
+dependencies:
+  okta-api:
+    token: ${OKTA_TOKEN}
+    base-url: ${OKTA_BASE_URL}
+    connect-timeout-secs: 30
